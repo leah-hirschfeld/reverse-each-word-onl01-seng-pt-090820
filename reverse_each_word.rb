@@ -10,3 +10,6 @@ def reverse_each_word(string)
 end
 
 #using collect
+def reverse_each_word(string)
+  
+end
